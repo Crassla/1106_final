@@ -52,6 +52,7 @@ nav{
 	text-decoration: underline;
 	background-color: #9c9c9c;
 	transition: 1s;
+	box-shadow: 3px 3px lightgray;
 }
 
 #background{
