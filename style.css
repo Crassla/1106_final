@@ -44,7 +44,7 @@ nav{
 
   
  h2,h1 {
-	font-family: 'Exo', sans-serif;
+	font-family: 'Roboto Slab', serif;
 	text-align:center;
 }
 
@@ -52,7 +52,6 @@ nav{
 	text-decoration: underline;
 	background-color: #9c9c9c;
 	transition: 1s;
-	box-shadow: 3px 3px lightgray;
 }
 
 #background{
@@ -76,7 +75,7 @@ nav{
 }
 
 h3{
-	font-family: 'Exo', sans-serif;
+	font-family: 'Roboto Slab', serif;
 }
 
 #footer{
@@ -107,14 +106,3 @@ h3{
 	 text-decoration: none;
 	 color: inherit;
  }
-
-
-table, th, td {
-	border: 1px solid black;
-	padding: 1%;
-}
-
-table {
-	border-collapse: collapse;
-	width: 90%;
-}
